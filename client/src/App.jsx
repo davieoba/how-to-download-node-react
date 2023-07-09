@@ -19,7 +19,7 @@ function App() {
 
   return (
     <>
-      <button className="" onClick={download}></button>
+      <button className="" onClick={download}>Download</button>
     </>
   )
 }
